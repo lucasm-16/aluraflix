@@ -67,7 +67,8 @@ img
 .categoria-videos img:hover
 {
     opacity: 1;
-    border: 1px solid green;
+    border: 1px solid white;
+    height: 210px;
 }
 
 .categoria h2
